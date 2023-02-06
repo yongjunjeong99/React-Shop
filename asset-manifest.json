@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Shop.git/static/css/main.2d5aacab.css",
+    "main.js": "/React-Shop.git/static/js/main.ba4bf25d.js",
+    "static/js/787.e962a2f4.chunk.js": "/React-Shop.git/static/js/787.e962a2f4.chunk.js",
+    "index.html": "/React-Shop.git/index.html",
+    "main.2d5aacab.css.map": "/React-Shop.git/static/css/main.2d5aacab.css.map",
+    "main.ba4bf25d.js.map": "/React-Shop.git/static/js/main.ba4bf25d.js.map",
+    "787.e962a2f4.chunk.js.map": "/React-Shop.git/static/js/787.e962a2f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d5aacab.css",
+    "static/js/main.ba4bf25d.js"
+  ]
+}
